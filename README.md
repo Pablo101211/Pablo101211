@@ -14,10 +14,10 @@
 
 I build things across the whole stack – from performant low-level code in C++/Rust to clean web frontends. Whether it's backend logic, UI, or small tools & scripts – I like code that works *and* looks good.
 
-- 🔭 Currently working on: *[Roblox External]*
-- 🌱 Currently learning: *[C++ Imgui Design]*
+- 🔭 Currently working on: *Roblox External*
+- 🌱 Currently learning: *C++ Imgui Design*
 - 💬 Ask me about: C++, C#, Rust, JavaScript, Frontend & Backend Dev
-- ⚡ Fun fact: *[The night is better]*
+- ⚡ Fun fact: *The night is better*
 
 ---
 
