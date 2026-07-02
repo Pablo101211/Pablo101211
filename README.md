@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm [Pablo] 👋</h1>
+<h1 align="center">Hey, I'm Pablo 👋</h1>
 
 <p align="center">
   <em>Full-Stack Developer • Systems & Games • Automation</em>
